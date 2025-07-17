@@ -26,7 +26,3 @@
 <div><br/>
 
 "Café, código e mais café."
-
-#### Caso gostariam de entrar em contato comigo
-
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/557799608527)
