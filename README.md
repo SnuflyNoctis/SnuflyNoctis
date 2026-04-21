@@ -1,7 +1,6 @@
 # Olá, eu sou o João Victor! 👋
 
-### 🎮 Fullstack Developer | Game Dev Enthusiast 
-> "Transformando ideias em realidade através de café, lógica e muita paixão por games."
+### 🎮 Front-End junior Developer | Game Dev Enthusiast 
 
 ---
 
