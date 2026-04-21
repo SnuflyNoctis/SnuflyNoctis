@@ -5,7 +5,7 @@
 
 ---
 
-## 🌐 [ACESSE MEU PORTFÓLIO AQUI](SEU_LINK_DO_FIREBASE_AQUI)
+## 🌐 [ACESSE MEU PORTFÓLIO AQUI](https://joao-dev-portfolio.web.app)
 *Clique no link acima para ver a experiência interativa em 3D inspirada em Resident Evil e Final Fantasy!*
 
 ---
@@ -22,13 +22,13 @@
 ### 🚀 Tech Stack
 
 #### ⚔️ No meu Inventário (Uso constantemente)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
 
-#### 📜 Em Aprendizado (Skill Tree)
+#### 📜Skills Adquiridas (Skill Tree)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
