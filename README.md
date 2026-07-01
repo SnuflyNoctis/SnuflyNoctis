@@ -1,6 +1,6 @@
 # Olá, eu sou o João Victor! 
 
-###  Front-End Junior Developer
+###  Front-end Developer crafting interactive web experiences with TypeScript, Tailwind, and Three.js.
 
 ---
 
