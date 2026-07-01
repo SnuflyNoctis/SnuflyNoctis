@@ -4,12 +4,12 @@
 
 ---
 
-## [EXPLORE MY INTERACTIVE PORTFOLIO](https://joao-dev-portfolio.web.app)
+## 🎮 [EXPLORE MY INTERACTIVE PORTFOLIO](https://joao-dev-portfolio.web.app)
 *Click the link above to dive into a 3D web experience inspired by Resident Evil and Final Fantasy!*
 
 ---
 
-### Connect With Me
+### 🔗 Connect With Me
 <div style="display: inline-block">
   <a href="https://www.linkedin.com/in/SEU-LINKEDIN-AQUI" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://github.com/SnuflyNoctis" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
@@ -20,7 +20,7 @@
 
 ---
 
-### Tech Stack
+### 🛠️ Tech Stack
 
 #### Current Loadout (Daily Stack)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
@@ -45,6 +45,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SnuflyNoctis&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SnuflyNoctis&layout=compact&langs_count=7&theme=radical"/>
 </p>
+
+---
 
 ---
 
