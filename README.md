@@ -1,6 +1,7 @@
 <p align="center">
-  <!-- Aqui chamamos o arquivo SVG que você acabou de criar -->
-  <img src="banner.svg" width="100%" alt="Hi, I'm João Victor!" />
+  <a href="https://github.com/SnuflyNoctis">
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=1da536&fontSize=54&height=90&width=730&text=Hi%2C%20I'm%20Jo%C3%A3o%20Victor!" alt="Hi, I'm João Victor!" />
+  </a>
 </p>
 
 <p align="center">
