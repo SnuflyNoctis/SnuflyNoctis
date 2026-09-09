@@ -8,17 +8,17 @@
   <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=56d4dd&center=true&vCenter=true&width=900&height=44&lines=Front-end%20Developer%20crafting%20interactive%20web%20experiences;Passionate%20about%20Clean%20Code%20and%20DDD;%22Coffee%2C%20code%2C%20and%20more%20coffee.%22" alt="Typing headlines" />
 </p>
 
-### 🚀 About Me
+###  About Me
 
 I am a Front-end Developer specialized in crafting scalable and interactive interfaces using **React, TypeScript, and Tailwind CSS**. Beyond the interface, I care deeply about software architecture—I consistently apply **Clean Code** principles and structure my work using **Domain-Driven Design (DDD)**.
 
 Currently, I'm expanding my skill set into backend technologies like Node.js and exploring 3D web experiences with Three.js. I thrive in challenging environments and am always looking for the next problem to solve.
 
-🌱 &nbsp;Currently focusing on: **Full-stack Development (Node.js & FastAPI)**  
-🤝 &nbsp;Open to collaborate on: **Open-source Front-end projects**  
-💬 &nbsp;Ask me about: **UI/UX integration and React architecture**  
-😄 &nbsp;Pronouns: **he/him**  
-⚡ &nbsp;Fun fact: **I always have a full cup of coffee when I'm about to create React states.**
+ &nbsp;Currently focusing on: **Full-stack Development (Node.js & FastAPI)**  
+ &nbsp;Open to collaborate on: **Open-source Front-end projects**  
+ &nbsp;Ask me about: **UI/UX integration and React architecture**  
+ &nbsp;Pronouns: **he/him**  
+ &nbsp;Fun fact: **I always have a full cup of coffee when I'm about to create React states.**
 
 ### 🛠️ Tech Stack
 
@@ -44,7 +44,7 @@ Currently, I'm expanding my skill set into backend technologies like Node.js and
 
 ---
 
-### 📊 GitHub Stats & Activity
+###  GitHub Stats & Activity
 
 <p align="center">
   <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=SnuflyNoctis&show_icons=true&theme=tokyonight&title_color=1da536&icon_color=1da536&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
@@ -57,7 +57,7 @@ Currently, I'm expanding my skill set into backend technologies like Node.js and
 
 ---
 
-### 🔗 Connect With Me
+###  Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/joão-victor-2045b42b1"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
