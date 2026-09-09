@@ -1,9 +1,9 @@
 <svg fill="none" viewBox="0 0 900 300" width="900" height="300" xmlns="http://www.w3.org/2000/svg">
-  <!-- Fundo do Kingdom Hearts -->
-  <image href="https://images.alphacoders.com/118/thumb-350-118133.webp" x="0" y="0" width="100%" height="100%" preserveAspectRatio="xMidYMid slice" />
+  <!-- Puxando a sua imagem em Full HD salva no seu repositório -->
+  <image href="https://raw.githubusercontent.com/SnuflyNoctis/SnuflyNoctis/main/118133.jpg" x="0" y="0" width="100%" height="100%" preserveAspectRatio="xMidYMid slice" />
   
-  <!-- Película escura (Aumentei um pouco a escuridão para 0.5 para dar destaque na lua) -->
-  <rect width="100%" height="100%" fill="black" fill-opacity="0.5" />
+  <!-- Película escura suave para o vitral brilhar, mas o texto ficar legível -->
+  <rect width="100%" height="100%" fill="black" fill-opacity="0.3" />
   
   <!-- Sombra do texto -->
   <text x="50.2%" y="50.5%" dominant-baseline="middle" text-anchor="middle" font-family="Arial, sans-serif" font-size="54" font-weight="bold" fill="#000000">
