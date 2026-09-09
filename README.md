@@ -1,4 +1,14 @@
 <p align="center">
+  <!-- Aqui chamamos o arquivo SVG que você acabou de criar -->
+  <img src="banner.svg" width="100%" alt="Hi, I'm João Victor!" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=FFD700&center=true&vCenter=true&width=900&height=44&lines=Front-end%20Developer%20crafting%20interactive%20web%20experiences;Passionate%20about%20Clean%20Code%20and%20DDD;%22May%20your%20heart%20be%20your%20guiding%20key.%22" alt="Typing headlines" />
+</p>
+
+
+<p align="center">
   <a href="https://github.com/SnuflyNoctis">
     <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=1da536&fontSize=54&height=90&width=730&text=Hi%2C%20I'm%20Jo%C3%A3o%20Victor!" alt="Hi, I'm João Victor!" />
   </a>
