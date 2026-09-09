@@ -8,16 +8,6 @@
 </p>
 
 
-<p align="center">
-  <a href="https://github.com/SnuflyNoctis">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=1da536&fontSize=54&height=90&width=730&text=Hi%2C%20I'm%20Jo%C3%A3o%20Victor!" alt="Hi, I'm João Victor!" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=56d4dd&center=true&vCenter=true&width=900&height=44&lines=Front-end%20Developer%20crafting%20interactive%20web%20experiences;Passionate%20about%20Clean%20Code%20and%20DDD;%22Coffee%2C%20code%2C%20and%20more%20coffee.%22" alt="Typing headlines" />
-</p>
-
 ###  About Me:
 
 I am a Front-end Developer specialized in crafting scalable and interactive interfaces using **React, TypeScript, and Tailwind CSS**. Beyond the interface, I care deeply about software architecture—I consistently apply **Clean Code** principles and structure my work using **Domain-Driven Design (DDD)**.
