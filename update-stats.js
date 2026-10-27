@@ -1,6 +1,6 @@
 const fs = require('fs');
 
-async function updateRPGStats() {
+async function updateSaveRoomStats() {
   const username = 'SnuflyNoctis';
   
   try {
@@ -11,39 +11,32 @@ async function updateRPGStats() {
     const repos = data.public_repos;
     const followers = data.followers;
 
-    const totalXP = (repos * 150) + (followers * 50);
-    
-    const level = Math.floor(Math.sqrt(totalXP / 100)) + 1;
-    
-    const currentLevelXP = Math.pow(level - 1, 2) * 100;
-    const nextLevelXP = Math.pow(level, 2) * 100;
-    const xpInCurrentLevel = totalXP - currentLevelXP;
-    const xpRequiredForNextLevel = nextLevelXP - currentLevelXP;
-    
-    const progressPercent = Math.min(Math.floor((xpInCurrentLevel / xpRequiredForNextLevel) * 100), 100);
+    // Lógica para definir a "Condição" (Vida) baseada em atividade (exemplo com repositórios)
+    let condition = '🟩 Fine';
+    if (repos > 30) condition = '🟩 Fine (Optimal)';
+    else if (repos > 15) condition = '🟨 Caution';
+    else condition = '🟥 Danger';
 
-    const progressBarLength = 15;
-    const filledLength = Math.round((progressBarLength * progressPercent) || 0 / 100);
-    const progressBar = '▓'.repeat(filledLength) + '░'.repeat(progressBarLength - filledLength);
+    const saveFileContent = `
+### 📼 Typewriter - Save Data
+> *"Is that you, survivor?"*
 
-    const rmarkdown = `
-### Character Status: João Victor
-- **Class:** Front-end Mage 🔮 *(Three.js & UI/UX Specialty)*
-- **Level:** \`Lv. ${level}\`
-- **Exp Points:** \`${totalXP} XP\`
-- **Next Level:** \`[${progressBar}] ${progressPercent}%\`
+- **Player ID:** João Victor
+- **Current Location:** Front-end R&D Labs 🧪
+- **Condition:** \`${condition}\`
+- **Ink Ribbons Used (Commits/Repos):** \`${repos}\`
+- **Allies Encountered (Followers):** \`${followers}\`
+- **Specialty Weapon:** \`React.js & Three.js\`
 
-#### Current Inventory Stats
-- **Artifacts Created (Public Repos):** \`${repos}\`
-- **Party Members (Followers):** \`${followers}\`
-*Last updated: ${new Date().toLocaleDateString('pt-BR')}*
+*Last saved at: ${new Date().toLocaleString('pt-BR')}*
 `;
 
     const readmePath = './README.md';
     let readmeContent = fs.readFileSync(readmePath, 'utf8');
 
-    const startTag = '';
-    const endTag = '';
+    // Tags que devem existir no seu README.md
+    const startTag = '<!-- SAVE_START -->';
+    const endTag = '<!-- SAVE_END -->';
 
     const startIndex = readmeContent.indexOf(startTag);
     const endIndex = readmeContent.indexOf(endTag);
@@ -55,15 +48,15 @@ async function updateRPGStats() {
 
     const newReadmeContent = 
       readmeContent.substring(0, startIndex + startTag.length) + 
-      rmarkdown + 
+      '\n' + saveFileContent + '\n' +
       readmeContent.substring(endIndex);
 
     fs.writeFileSync(readmePath, newReadmeContent);
-    console.log('Status do RPG atualizado com sucesso!');
+    console.log('Save Room atualizado com sucesso!');
 
   } catch (error) {
-    console.error('Erro ao atualizar o status:', error);
+    console.error('Erro ao atualizar o save:', error);
   }
 }
 
-updateRPGStats();
+updateSaveRoomStats();
