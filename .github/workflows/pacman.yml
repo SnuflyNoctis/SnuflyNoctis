@@ -2,28 +2,32 @@ name: Generate Pacman Animation
 
 on:
   schedule:
-    - cron: "0 0 * * *" # Roda todos os dias à meia-noite
-  workflow_dispatch: # Permite rodar manualmente num botão
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+# 1. Concede permissão explícita de escrita ao robô (Resolve o erro 128)
+permissions:
+  contents: write
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
+      # 2. Atualizado para @v4 (Resolve o aviso amarelo do Node.js)
       - name: Checkout repository
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
-      # Gera o SVG do Pac-Man usando a Action
       - name: Generate Pacman
         uses: AndreRuperto/svg-pacman-contributions@main
         with:
           github_user_name: SnuflyNoctis
           github_token: ${{ secrets.METRICS_TOKEN }}
           
-      # Faz o push do SVG gerado de volta para o teu repositório
       - name: Push to Repo
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          # O ficheiro gerado pela ação costuma chamar-se github-contribution-grid-snake.svg
           git add github-contribution-grid-snake.svg
           git commit -m "🎮 Update Pac-Man Contribution Graph" || exit 0
           git push
