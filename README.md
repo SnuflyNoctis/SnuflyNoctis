@@ -1,6 +1,6 @@
 <div align="center">
   <!-- Mudamos de ?v=2 para ?theme=re4 para quebrar o cache do GitHub -->
-  <img src="https://save-room-readme.vercel.app/api?theme=rpd_final" alt="Resident Evil 4 Status Menu" />
+  <img src="https://save-room-readme.vercel.app/api?theme=rpd_more" alt="Resident Evil 4 Status Menu" />
 </div>
 
 <br/>
