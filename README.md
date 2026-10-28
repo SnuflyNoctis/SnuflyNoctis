@@ -1,3 +1,4 @@
+
 <div align="center">
   <img src="https://save-room-readme.vercel.app/api?theme=categorized_vitals" alt="Resident Evil 4 Status Menu" />
 </div>
@@ -9,8 +10,8 @@
 </div>
 
 
+<img src="github-metrics.svg" width="450" align="center">
 
-<img src="github-metrics.svg" width="650">
 
 
 
