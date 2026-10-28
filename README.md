@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="https://save-room-readme.vercel.app/api?theme=categorized_vitals" alt="Resident Evil 4 Status Menu" />
+  <img src="https://save-room-readme.vercel.app/api?theme=pixel_font_v1" alt="Resident Evil 4 Status Menu" />
 </div>
 
 <br/>
