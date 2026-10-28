@@ -1,16 +1,18 @@
+<br/>
+
+<div align="center">
+  <img alt="GitHub Metrics Animado" src="https://raw.githubusercontent.com/SnuflyNoctis/SnuflyNoctis/main/github-metrics.svg" width="650">
+</div>
 
 <div align="center">
   <img src="https://save-room-readme.vercel.app/api?theme=pixel" alt="Resident Evil 4 Status Menu" />
 </div>
 
-<br/>
 
 <div align="center">
   <em>"What're ya buyin', stranger?"</em>
 </div>
 
-
-<img src="github-metrics.svg" width="450" align="center">
 
 
 
