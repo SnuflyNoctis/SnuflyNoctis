@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  <img src="https://save-room-readme.vercel.app/api?theme=pixel" alt="Resident Evil 4 Status Menu" />
+  <img src="https://save-room-readme.vercel.app/api?theme=pixel_skills" alt="Resident Evil 4 Status Menu" />
 </div>
 
 
