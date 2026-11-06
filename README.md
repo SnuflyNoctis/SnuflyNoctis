@@ -17,10 +17,22 @@
 <!-- 3. EQUIPMENT: TECHNICAL ARSENAL -->
 <div align="center">
   <h3><b>[ TECHNICAL ARSENAL ]</b></h3>
-  <br>
+  
+  <p><b>[  FRONT-END / UI ]</b></p>
   <a href="https://skillicons.dev">
-    <!-- Adiciona os nomes separados por vírgula depois do "i=" e ajusta o "perline=" -->
-    <img src="https://skillicons.dev/icons?i=js,ts,react,tailwind,nodejs,python,bun,vite,prisma,docker,aws,linux,git,vscode,html,css,figma,github&theme=dark&perline=9" alt="My Skills" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,threejs,figma&theme=dark" alt="Front-End Skills" />
+  </a>
+  <br><br>
+
+  <p><b>[  BACK-END / DATABASE ]</b></p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,python,prisma,supabase,firebase&theme=dark" alt="Back-End Skills" />
+  </a>
+  <br><br>
+
+  <p><b>[ 🔧 TOOLS, OS & INFRASTRUCTURE ]</b></p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=bun,vite,pnpm,npm,git,github,vscode,docker,aws,vercel,linux,arch,bash,notion&theme=dark&perline=7" alt="Tools and Infra Skills" />
   </a>
 </div>
 <br/>
