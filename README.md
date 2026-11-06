@@ -67,7 +67,7 @@
 <!-- 5. RECENT ACTIVITY: PAC-MAN -->
 <div align="center">
   <picture>
-    <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/SnuflyNoctis/SnuflyNoctis/output/pacman-contribution-graph-dark.svg" width="850">
+    <img alt="3D Contribution Graph" src="profile-3d-contrib/profile-night-green.svg" width="850">
   </picture>
 </div>
 <br/>
