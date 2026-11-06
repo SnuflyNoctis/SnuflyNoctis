@@ -34,7 +34,7 @@
   </a>
   <br><br>
 
-  <p><b>[ 🔧 TOOLS, OS & INFRASTRUCTURE ]</b></p>
+  <p><b>[  TOOLS, OS & INFRASTRUCTURE ]</b></p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=bun,vite,pnpm,npm,git,github,vscode,docker,aws,vercel,linux,arch,bash,notion&theme=dark&perline=7" alt="Tools and Infra Skills" />
   </a>
