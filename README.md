@@ -30,7 +30,7 @@
 <div align="center">
   <!-- Spotify File -->
   <details>
-    <summary><b>[ 📼 PLAY CASSETTE TAPE: SAFE_ROOM_THEME ]</b></summary>
+    <summary><b>[  PLAY CASSETTE TAPE: SAFE_ROOM_THEME ]</b></summary>
     <br>
     <a href="https://github.com/kittinan/spotify-github-profile">
       <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=d7cc7iunc93z6e2e19jiddndb&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false" width="300" alt="Spotify Now Playing">
@@ -40,7 +40,7 @@
   
   <!-- Bio File -->
   <details>
-    <summary><b>[ 📂 READ CONFIDENTIAL FILE: MISSION_LOG.TXT ]</b></summary>
+    <summary><b>[  READ CONFIDENTIAL FILE: MISSION_LOG.TXT ]</b></summary>
     <br>
     <p><i>"Structural transition ongoing. Systems stabilized."</i></p>
     <p>Currently stationed as a Front-End Developer at <b>Futuro Construções</b>. Focused on building immersive interfaces (React, Tailwind), while exploring container orchestration (Docker) and Full Stack architectures.</p>
@@ -59,7 +59,7 @@
 <!-- 6. RAW DATA: METRICS TERMINAL -->
 <div align="center">
   <details>
-    <summary><b>[ 📊 ACCESS DATA TERMINAL: GITHUB_METRICS ]</b></summary>
+    <summary><b>[  ACCESS DATA TERMINAL: GITHUB_METRICS ]</b></summary>
     <br>
     <img alt="Animated GitHub Metrics" src="https://raw.githubusercontent.com/SnuflyNoctis/SnuflyNoctis/main/github-metrics.svg" width="700">
   </details>
