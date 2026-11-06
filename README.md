@@ -22,3 +22,9 @@
     <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/SnuflyNoctis/SnuflyNoctis/output/pacman-contribution-graph-dark.svg" width="850">
   </picture>
 </div>
+
+<p align="center">
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=d7cc7iunc93z6e2e19jiddndb&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false">
+  </a>
+</p>
