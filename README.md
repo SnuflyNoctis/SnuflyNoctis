@@ -12,6 +12,10 @@
 <div align="center">
   <em>"What're ya buyin', stranger?"</em>
 </div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=SnuflyNoctis&label=SYSTEM+ACCESSES&color=B89C72&style=for-the-badge" alt="Profile Views">
+</div>
 <br/>
 
 <!-- 3. EQUIPMENT: TECHNICAL ARSENAL -->
