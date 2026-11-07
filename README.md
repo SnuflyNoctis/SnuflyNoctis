@@ -64,7 +64,6 @@
 </div>
 <br/>
 
-<!-- 5. RECENT ACTIVITY: PAC-MAN -->
 <div align="center">
   <picture>
     <img alt="3D Contribution Graph" src="profile-3d-contrib/profile-night-green.svg" width="850">
@@ -79,4 +78,22 @@
     <br>
     <img alt="Animated GitHub Metrics" src="https://raw.githubusercontent.com/SnuflyNoctis/SnuflyNoctis/main/github-metrics.svg" width="700">
   </details>
+</div>
+
+
+
+<div align="center">
+  <h3><b>[ COMMUNICATIONS RELAY ]</b></h3>
+  <br>
+  <a href="mailto:joaovd.contato@gmail.com">
+    <img src="https://img.shields.io/badge/TRANSMIT_EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://www.linkedin.com/in/joaovictor-lacerda/">
+    <img src="https://img.shields.io/badge/LINKEDIN_NETWORK-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+</div>
+<br/>
+
+<div align="center">
+  <p><i>[ END OF TRANSMISSION ]</i></p>
 </div>
